@@ -1,11 +1,11 @@
 # hello-world
-Just a test
+3rd commit
 
 # H1
-# H1 This is new
+new
 ### H3
 
 **bold text**
-* italicize * This is new
+* italicize * 
 > blockquote
 
